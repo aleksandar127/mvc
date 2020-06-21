@@ -1,0 +1,17 @@
+{
+"Home":"home",
+"Tools":{
+"My tools":"tools",
+"Tool 1":"tools/first",
+"Tool 2":"tools/second",
+"separator":"",
+"Tool 3":"tools/third"
+},
+
+"Google":"https://www.google.rs/",
+"Login":"register/login",
+"Logout":"register/logout"
+
+
+
+}

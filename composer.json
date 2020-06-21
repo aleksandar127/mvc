@@ -1,0 +1,23 @@
+{   "description":"",
+    "name": "sportshop/sportshop",
+    "authors": [
+        {
+            "name": "alex8716",
+            "email": "aleksandarmarkovic127@gmail.com"
+        }
+    ],
+    "require": {},
+
+    
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/" ,
+            "Core\\": "core/"
+            
+
+            
+        }
+    }
+
+    
+}
